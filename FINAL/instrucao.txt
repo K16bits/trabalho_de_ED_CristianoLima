@@ -1,0 +1,2 @@
+--- Intrução ---
+1 - Rode os aquivos: projeto.c e texto.txt na mesma pasta
